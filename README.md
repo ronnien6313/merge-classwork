@@ -1,5 +1,5 @@
 this
 is
-some
+cool
 merge
 classwork
